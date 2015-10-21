@@ -7,7 +7,6 @@ INDEX VERSION 1.127+C:\Users\dark__000\ecse321-tut\321tut1\.metadata\.plugins\or
 3158849313.index
 4134526084.index
 2959774643.index
-3195087566.index
 1926144101.index
 3038630371.index
 1811389807.index
